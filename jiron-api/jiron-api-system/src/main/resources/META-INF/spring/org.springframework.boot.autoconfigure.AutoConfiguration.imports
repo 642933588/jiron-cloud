@@ -1,0 +1,3 @@
+com.jiron.system.api.factory.RemoteUserFallbackFactory
+com.jiron.system.api.factory.RemoteLogFallbackFactory
+com.jiron.system.api.factory.RemoteFileFallbackFactory

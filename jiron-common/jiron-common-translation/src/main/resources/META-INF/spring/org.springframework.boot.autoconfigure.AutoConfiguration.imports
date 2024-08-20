@@ -1,0 +1,2 @@
+com.jiron.common.translation.config.TranslationConfig
+com.jiron.common.translation.core.impl.UserNameTranslationImpl

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.jiron</groupId>
+        <artifactId>jiron</artifactId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>jiron-common-log</module>
+        <module>jiron-common-core</module>
+        <module>jiron-common-redis</module>
+        <module>jiron-common-seata</module>
+        <module>jiron-common-swagger</module>
+        <module>jiron-common-security</module>
+        <module>jiron-common-sensitive</module>
+        <module>jiron-common-datascope</module>
+        <module>jiron-common-datasource</module>
+        <module>jiron-common-translation</module>
+    </modules>
+
+    <artifactId>jiron-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        jiron-common通用模块
+    </description>
+
+</project>

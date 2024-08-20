@@ -1,0 +1,3 @@
+# com.jiron.common.swagger.config.SwaggerAutoConfiguration
+# com.jiron.common.swagger.config.SwaggerWebConfiguration
+# com.jiron.common.swagger.config.SwaggerBeanPostProcessor

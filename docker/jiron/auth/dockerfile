@@ -1,0 +1,15 @@
+# 基础镜像
+FROM  openjdk:8-jre
+# author
+MAINTAINER jiron
+
+# 挂载目录
+VOLUME /home/jiron
+# 创建目录
+RUN mkdir -p /home/jiron
+# 指定路径
+WORKDIR /home/jiron
+# 复制jar文件到路径
+COPY ./jar/jiron-auth.jar /home/jiron/jiron-auth.jar
+# 启动认证服务
+ENTRYPOINT ["java","-jar","jiron-auth.jar"]

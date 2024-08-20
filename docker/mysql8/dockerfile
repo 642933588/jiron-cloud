@@ -1,0 +1,12 @@
+# 基础镜像
+FROM mysql:8.0.23
+# author
+MAINTAINER jiron
+
+ENV MYSQL_ROOT_PASSWORD=****
+
+
+# 执行sql脚本
+ADD ./db/*.sql /docker-entrypoint-initdb.d/
+
+EXPOSE 3306

@@ -1,0 +1,13 @@
+# 基础镜像
+FROM redis
+# author
+MAINTAINER jiron
+
+# 挂载目录
+VOLUME /home/jiron/redis
+# 创建目录
+RUN mkdir -p /home/jiron/redis
+# 指定路径
+WORKDIR /home/jiron/redis
+# 复制conf文件到路径
+COPY ./conf/redis.conf /home/jiron/redis/redis.conf

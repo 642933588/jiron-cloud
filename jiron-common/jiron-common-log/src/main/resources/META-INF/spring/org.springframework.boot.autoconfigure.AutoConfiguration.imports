@@ -1,0 +1,2 @@
+com.jiron.common.log.service.AsyncLogService
+com.jiron.common.log.aspect.LogAspect
