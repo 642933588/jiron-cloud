@@ -202,7 +202,7 @@
 
 ## 许可
 
-本项目采用 MIT 许可证。详情请参阅 [LICENSE](LICENSE)。
+本项目采用 apache-2.0 license 许可证。详情请参阅 [LICENSE](LICENSE)。
 
 ## 联系我们
 
