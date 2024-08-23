@@ -208,10 +208,11 @@
 
 - 邮箱: 642933588@qq.com（qq同号）
 - 加V请注明来意：smallfortheuniverse
-
-![WechatIMG182](https://github.com/user-attachments/assets/db0fa36a-9478-49e4-8e15-07b22a8ae376)
-
-![image](https://github.com/642933588/jiron-cloud/assets/10755257/146fa604-986a-4202-ba27-fa7842eb9a20)
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/114c715d-d38e-46aa-af36-df8d518939eb">
+公众号：
+![qrcode_for_gh_58cd5cd02552_258](https://github.com/user-attachments/assets/20f19070-bbe7-4fa3-9777-b932a0e649d9)
+知识星球：
+<img width="345" alt="image" src="https://github.com/user-attachments/assets/d0a08b72-c25c-425f-9eb3-2b2103e7a89b">
 
 ## 
 
