@@ -6,6 +6,7 @@
 
 [【 推荐实时数仓（数据湖）项目：https://github.com/Mrkuhuo/data-warehouse-learning 】](https://github.com/Mrkuhuo/data-warehouse-learning)
 
+[【 公众号：】](Jiron开源)
 
 这是一款功能全面的数据开发平台。平台提供了强大的数据集成、数据开发、数据查询、数据服务、数据质量管理、工作流调度和元数据管理功能。dinky ，dolphinscheduler ，datavines ，flinkcdc ，openmetadata ，flink ，数据开发 ，数据平台 ，数据开发平台 ，大数据
 ## 目录
