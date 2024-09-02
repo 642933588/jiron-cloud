@@ -21,9 +21,8 @@
     - [数据分析（DataAnalysis）](#数据分析)
     - [数据服务（Dataservice）](#数据服务)
 - [架构](#架构)
-- [安装](#安装)
-- [演示](#演示)
-- [实践](#实践)
+- [演示环境](#演示环境)
+- [功能展示](#功能展示)
 - [贡献](#贡献)
 - [许可](#许可)
 - [联系方式](#联系方式)
@@ -98,15 +97,10 @@
 ![架构图](https://github.com/642933588/dataworks/assets/10755257/c2f6a740-dc79-4e5c-8c3b-1a6f499c784b)
 
 
-## 安装
-目前演示环境还在筹备中，知识星球有完整部署文件，可以先本地环境部署体验（二维码在最下面）
+## 演示环境
+一、【公众号：Jiron开源】获取演示环境地址账号。
 
-知识星球有什么：
-1 部署资料搭建环境
-2 平台及数据开发常见问题分析
-3 平台二次开发教程
-4 实时数仓（数据糊）实战教程
-5 问题解答
+二、知识星球有完整部署文件，可以本地环境部署体验（二维码在最下面）
 
 ## 演示
 
@@ -192,14 +186,10 @@
 ![9-1](https://github.com/642933588/dataworks/assets/10755257/81f52c8a-0793-49a7-a935-388dd467f19c)
 ![9-2](https://github.com/642933588/dataworks/assets/10755257/375e8ab1-0748-4e8f-b015-cf2e83a8abc9)
 
-## 实践
-《实时数仓（数据湖）实战》是一个以电商系统为基础，围绕电商业务指标统计需求而构建的实时数仓（数据湖）项目，涉及组件flink、paimon、doris、seatunnel、dolphinscheduler、datart、dinky、hudi、iceberg。通过该项目，可以快速掌握实时数仓（数据湖）基本概念、数仓分层构建步骤及所涉及各类大数据组件实战用法。代码地址：https://github.com/Mrkuhuo/data-warehouse-learning
-
 ## 贡献指南
 
 我们欢迎任何形式的贡献！如果你有好的建议或发现了问题，请提交一个 Issue 或 Pull Request。
 提供或赞助云服务器资源搭建云学习环境。
-
 
 ## 许可
 
@@ -208,7 +198,7 @@
 ## 联系我们
 
 - 邮箱: 642933588@qq.com（qq同号）
-- 加V请注明来意：smallfortheuniverse
+- v信号：smallfortheuniverse （加v请注明来意）
 
 <img width="219" alt="image" src="https://github.com/user-attachments/assets/114c715d-d38e-46aa-af36-df8d518939eb">
 <img width="345" alt="image" src="https://github.com/user-attachments/assets/d0a08b72-c25c-425f-9eb3-2b2103e7a89b">
