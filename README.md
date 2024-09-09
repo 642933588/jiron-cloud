@@ -99,11 +99,18 @@
 
 
 ## 演示环境
-一、【公众号：Jiron开源】获取演示环境地址账号。
+Jiron演示环境体验
+1. 关注公众号【Jiron开源】
+扫码关注公众号，即可获取演示环境的访问地址及账号信息，第一时间体验Jiron数据开发平台的强大功能。
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/777b3ddf-f479-44c0-aa02-568856cd7958">
 
-二、知识星球有完整部署文件，可以本地环境部署体验（二维码在最下面）
+2. 加入知识星球，解锁 Jiron 数据开发平台，详尽安装与部署步骤，助你极速起飞！
+加入我们的知识星球社区，即可获取完整的Jiron平台本地部署文件，轻松在本地搭建专属环境，深入体验Jiron数据开发平台。
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/8dc77cd1-f43b-4c55-8c31-7b081c012069">
 
-## 演示
+想要随时获取最新功能更新、案例分享和技术干货，快来加入我们的社群吧！
+
+## 功能展示
 
 #### 首页
 ![0](https://github.com/642933588/dataworks/assets/10755257/6681dcb9-3720-4762-9a77-76ee755689f9)
@@ -190,7 +197,6 @@
 ## 贡献指南
 
 我们欢迎任何形式的贡献！如果你有好的建议或发现了问题，请提交一个 Issue 或 Pull Request。
-提供或赞助云服务器资源搭建云学习环境。
 
 ## 许可
 
@@ -200,10 +206,5 @@
 
 - 邮箱: 642933588@qq.com（qq同号）
 - v信号：smallfortheuniverse （加v请注明来意）
-
 <img width="219" alt="image" src="https://github.com/user-attachments/assets/114c715d-d38e-46aa-af36-df8d518939eb">
-<img width="345" alt="image" src="https://github.com/user-attachments/assets/d0a08b72-c25c-425f-9eb3-2b2103e7a89b">
-<img width="257" alt="image" src="https://github.com/user-attachments/assets/777b3ddf-f479-44c0-aa02-568856cd7958">
-
-## 
 
